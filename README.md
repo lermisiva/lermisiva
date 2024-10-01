@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lermisiva
+- 👋 Hi, I’m Sivabalan S
 - 👀 I’m interested in frontend developer 
-- 🌱 I’m currently learning react native and reacjs
+- 🌱 I’m currently learning react native and reactjs
 - 💞️ I’m looking to collaborate on design
 - 📫 How to reach me mail-sivabalan.st.2002@gmail.com
 - 😄 Pronouns: ...
