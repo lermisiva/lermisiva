@@ -1,5 +1,7 @@
-- 👋 Hi, This is  Sivabalan S
-- 🌱 I’m currently learning  ML/ AI
-- 💞️ I’m looking to collaborate on design and data
-- 📫 How to reach me mail-sivabalan.st.2002@gmail.com
+👋 Hi, I'm Sivabalan S
+💻 Frontend Developer (React.js, JavaScript, Tailwind CSS)
+🤖 AI/ML (Python, Machine Learning, FastAPI)
+🌐 Portfolio: https://sivabalansportfolio.netlify.app/
+🔗 LinkedIn: www.linkedin.com/in/sivabalans0605
+📫 sivabalan.st.2002@gmail.com
 
